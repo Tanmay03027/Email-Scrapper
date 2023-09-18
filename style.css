@@ -1,0 +1,30 @@
+body{
+    width: 300px;
+   
+
+}
+.center{
+    
+    text-align: center;
+}
+
+ul{
+    list-style-type: decimal;
+    text-align: left;
+    margin-top: 2vw;
+}
+h1{
+    font-size: 6vw;
+}
+img{
+    width: 7vw;
+}
+.main{
+    display: flex;
+    align-items: center;
+    gap: 2vw;
+    margin-top: 5vw;
+    margin-left: 20vw;
+    
+    width: 100%;
+}
