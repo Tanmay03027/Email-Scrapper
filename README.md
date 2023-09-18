@@ -1,0 +1,2 @@
+# Email-Scrapper
+Chrome Extension
